@@ -4,10 +4,6 @@ This is a **console-based Java project** simulating the core functionalities of 
 
 ---
 
-![class_diagram_for_bank_Managment_system](https://github.com/user-attachments/assets/5b16146c-8d6b-4bcd-9977-faca9f1cce9d)
-
-
-
 ## 💡 Features
 
 - Add new customers
